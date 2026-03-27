@@ -1,4 +1,4 @@
-# trabaldo-de-desenvolvimento
+# trabalho-de-desenvolvimento
 primeiro trabalho
 João Vitor de Paula Souza: 927106
 
